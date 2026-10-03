@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Laya model weights (pulled via laya-pull.py)
+backend/laya_model/
+
+# Node / Next.js
+node_modules/
+.next/
+out/
+
+# IDE
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env
+.env*
+
+# Locks managed per-tool, not globally
+# backend/uv.lock and frontend/package-lock.json are committed
