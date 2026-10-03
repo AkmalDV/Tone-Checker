@@ -74,4 +74,4 @@ Returns prediction choice, confidence score, and full probability distribution.
 
 ## License
 
-Apache 2.0 (Laya model) — see [convaiinnovations/laya](https://huggingface.co/convaiinnovations/laya).
+Apache 2.0 (Laya model) — see [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya?tab=Apache-2.0-1-ov-file).
